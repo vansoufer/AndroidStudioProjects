@@ -2,7 +2,7 @@
 
 Atividades no Android Studio para a aula de Tópicos Especiais em Informática
 
-Sorteio: Aplicativos que escolhe um meme aleatoriamente e exibe para o usuário.
+Sorteio: Aplicativo que escolhe uma imagem (meme) aleatoriamente e exibe para o usuário.
 
 Jokenpô: Jogo de Pedra, Papel ou Tesoura.
 
